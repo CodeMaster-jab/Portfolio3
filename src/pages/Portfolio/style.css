@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvica Neue, Helvetica, sans-serif;
   }
   .bg {
-      background-image: url('../images/blue-snow.png');
+      background-image: url('./images/blue-snow.png');
   }
   p {
       color: #777777;

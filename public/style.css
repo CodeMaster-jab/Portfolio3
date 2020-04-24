@@ -4,6 +4,6 @@ body {
   font-family: Arial, Helvica Neue, Helvetica, sans-serif;
 }
 .bg {
-    background-image: url('../src/images/blue-snow.png');
+    background-image: url('./images/blue-snow.png');
 }
   
