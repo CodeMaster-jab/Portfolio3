@@ -1,0 +1,9 @@
+body {
+  height: 2000px;
+  color: #777777;
+  font-family: Arial, Helvica Neue, Helvetica, sans-serif;
+}
+.bg {
+    background-image: url('../src/images/blue-snow.png');
+}
+  
